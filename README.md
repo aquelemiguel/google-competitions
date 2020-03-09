@@ -1,4 +1,4 @@
-# hashcode-solutions
+# google-competitions
 
 ## Hash Code 2019
 This year we used **Javascript** with a hint of Lodash. We got **3rd place** on our **Porto hub** and **9th portuguese** overall.  
